@@ -7,5 +7,4 @@ Quick notes, mathematical operations, subset operations, Fancy index.
 
 
 NumPy cheatsheet:
->>>>>>> 8020b29fa31f54c571e1178ccd684386a1bad977:README.txt
 ![](numpy_cheat_sheet.jpg)
